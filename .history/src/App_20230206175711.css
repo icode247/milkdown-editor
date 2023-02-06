@@ -1,0 +1,57 @@
+.milkdown {
+  margin: 1rem 0;
+  height: 100vh;
+}
+
+.milkdown .editor {
+  background-color: rgb(46, 44, 44);
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue",
+    Helvetica, Roboto, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  padding-top: 40px;
+  padding-bottom: 40px;
+  max-width: 758px;
+  overflow: visible !important;
+  position: relative;
+}
+
+.milkdown .editor h1 {
+  font-weight: 900;
+}
+
+.milkdown .editor .code-fence{
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: #b4b4b4;
+  border-radius: 3px
+}
+
+.milkdown .editor .code-fence .code-fence_selector-wrapper .code-fence_selector{
+  background-color: rgb(129, 129, 129);
+  display: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.milkdown .editor .code-fence pre code div{
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background-color: #b4b4b4;
+  border: 0;
+
+}
+.milkdown .editor .code-fence .code-fence_selector-wrapper .icon {
+  display: none;
+}
+
+.wrapper .header{
+  background-color: black;
+  padding: o;
+}

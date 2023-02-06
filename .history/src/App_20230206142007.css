@@ -1,0 +1,14 @@
+
+.milkdown {
+  margin: 1rem 0;
+}
+
+.milkdown .editor{
+  background-color: rgb(46, 44, 44);
+  height: 100vh;
+  color: white;
+}
+
+.milkdown .editor  h1{
+  font-weight: 900;
+}

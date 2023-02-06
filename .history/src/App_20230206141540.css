@@ -1,0 +1,10 @@
+
+.milkdown {
+  margin: 1rem 0;
+  height: 100vh;
+  padding: 0px;
+}
+
+.milkdown .editor{
+  background-color: red;
+}
